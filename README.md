@@ -40,13 +40,8 @@ This project analyzes BlinkIT grocery sales data using Tableau to identify sales
 - Supermarket Type 1 achieved the highest sales.
 - Sales peaked for outlets established around 2018.
 
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
 ## Files Included
 
-- BlinkIT Dashboard.twbx
+- Blinkit Grocery Sales Performance Dashboard .twbx
 - BlinkIT Grocery Data.csv
 - Dashboard Screenshot
-- Project Presentation
